@@ -60,10 +60,10 @@
   
 ## PKNU Project list
 - [HTML] 핀터레스트 사이트 구현
-- [C] 콘솔 휘트니스 회원 관리 프로그램
-- [C] 대소문자 판별 후 정렬 프로그램
-- [C++] 고스톱 프로그램
-- [C#] 콘솔 전화번호부 프로그램
+- [C] [콘솔 휘트니스 회원 관리 프로그램](https://github.com/SeoDongWoo1216/StudyC2021/tree/main/IoT_Test)
+- [C] [대소문자 판별 후 정렬 프로그램](https://github.com/SeoDongWoo1216/StudyC2021/tree/main/IoT_Test)
+- [C++] [고스톱 프로그램](https://github.com/SeoDongWoo1216/StudyCpp2021/tree/main/Chapter13_%EC%8B%A4%EC%8A%B5)
+- [C#] [콘솔 전화번호부 프로그램](https://github.com/SeoDongWoo1216/StudyCSharp21)
 - [C# Winform] 북렌탈샵(with MS-Sql)
 - [라즈베리파이] IoT 프로젝트
 - [C# WPF] 프로토타입 ERP 구현
