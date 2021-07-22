@@ -69,7 +69,7 @@
 - [C] [대소문자 판별 후 정렬 프로그램](https://github.com/SeoDongWoo1216/StudyC2021)
 - [C++] [고스톱 프로그램](https://github.com/SeoDongWoo1216/StudyCpp2021)
 - [C#] [콘솔 전화번호부 프로그램](https://github.com/SeoDongWoo1216/StudyCSharp21)
-- [C# Winform] 북렌탈샵(with MS-Sql)
+- [C# Winform] [북렌탈샵(with MS-Sql)](https://github.com/SeoDongWoo1216/StudyDesktopApp/tree/main/WinFormApp/210315_WinFormAdvancedBank/210316_300_BookRentalShopApp)
 - [라즈베리파이] [IoT 프로젝트](https://github.com/SeoDongWoo1216/RaspberryPi_Python)
 - [C# WPF] 프로토타입 ERP 구현
 - [C# WPF] 네이버 무비 파인더
