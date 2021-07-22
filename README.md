@@ -64,7 +64,7 @@
   
   
 ## PKNU Project list
-- [HTML] [핀터레스트 사이트 구현](https://github.com/SeoDongWoo1216/StudyHtml)
+- [HTML] [Pinterest 사이트 구현](https://github.com/SeoDongWoo1216/StudyHtml)
 - [C] [콘솔 휘트니스 회원 관리 프로그램](https://github.com/SeoDongWoo1216/StudyC2021)
 - [C] [대소문자 판별 후 정렬 프로그램](https://github.com/SeoDongWoo1216/StudyC2021)
 - [C++] [고스톱 프로그램](https://github.com/SeoDongWoo1216/StudyCpp2021)
