@@ -35,7 +35,7 @@
  <a href="https://github.com/SeoDongWoo1216/StudyAspNet21" target="_blank"><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"/></a>
  <a href="https://github.com/SeoDongWoo1216/StudyRaspberry21" target="_blank"><img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=Qt&logoColor=white"/></a>
  <a href="https://github.com/SeoDongWoo1216/StudyRaspberry21" target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white"/></a>
- <a href="https://github.com/SeoDongWoo1216/StudyRaspberry21" target="_blank"><img alt="Flask" src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white"/></a>
+ <a href="https://github.com/SeoDongWoo1216/RaspberryPi_Python" target="_blank"><img alt="Flask" src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white"/></a>
  
 
 </p>
