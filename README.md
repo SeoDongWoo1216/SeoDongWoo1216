@@ -5,6 +5,12 @@
   </a>
 </p>
 
+## info
+- Name : Seo DongWoo
+- Email : dw6642@naver.com
+- 
+
+
 ## GitHub Commit
 
 <p align='center'>
