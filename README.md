@@ -65,7 +65,7 @@
 - [C++] [고스톱 프로그램](https://github.com/SeoDongWoo1216/StudyCpp2021/tree/main/Chapter13_%EC%8B%A4%EC%8A%B5)
 - [C#] [콘솔 전화번호부 프로그램](https://github.com/SeoDongWoo1216/StudyCSharp21)
 - [C# Winform] 북렌탈샵(with MS-Sql)
-- [라즈베리파이] IoT 프로젝트
+- [라즈베리파이] [IoT 프로젝트](https://github.com/SeoDongWoo1216/RaspberryPi_Python)
 - [C# WPF] 프로토타입 ERP 구현
 - [C# WPF] 네이버 무비 파인더
 - [C# WPF] MRP 프로젝트
