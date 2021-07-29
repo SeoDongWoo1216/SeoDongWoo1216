@@ -73,7 +73,7 @@
 - [라즈베리파이] [IoT 프로젝트](https://github.com/SeoDongWoo1216/RaspberryPi_Python)
 - [C# WPF] 프로토타입 ERP 구현
 - [C# WPF] [네이버 무비 파인더](https://github.com/SeoDongWoo1216/MiniProject_Desktop/tree/main/WPFMiniProject/210401_NaverMovieFinderApp)
-- [C# WPF] MRP 프로젝트
+- [C# WPF] [MRP 프로젝트](https://github.com/SeoDongWoo1216/MiniProject_SimpleMRP)
 
   
   
