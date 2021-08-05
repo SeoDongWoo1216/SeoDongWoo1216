@@ -62,6 +62,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white"/></a>
 </p>
   
+<br>
   
 ## PKNU Project list
 - [HTML] [Pinterest 사이트 구현](https://github.com/SeoDongWoo1216/StudyHtml)
